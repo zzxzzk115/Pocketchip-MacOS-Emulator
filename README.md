@@ -31,4 +31,6 @@ chmod +x minivmac
 运行中文版System 7.5 系统：
 
 ![screenshot01](https://github.com/zzxzzk115/Pocketchip-MacOS-Emulator/raw/master/screenshots/screenshot01.png)
+![IMG_0700](https://github.com/zzxzzk115/Pocketchip-MacOS-Emulator/raw/master/screenshots/IMG_0700.JPG)
+
 
